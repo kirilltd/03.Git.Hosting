@@ -1,0 +1,6 @@
+Mon Apr 25 21:54:12 +03 2022
+total 32
+-rw-r--r--  1 kirill  staff   92 Apr 25 21:27 file1.txt
+-rw-r--r--  1 kirill  staff   29 Apr 25 21:43 file2.txt
+-rw-r--r--  1 kirill  staff   29 Apr 25 21:54 file3.txt
+-rwxr-xr-x  1 kirill  staff  139 Apr 25 21:53 git_mass_push.sh
